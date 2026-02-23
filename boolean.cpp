@@ -47,6 +47,7 @@ int main() {
     
     cout << "Merged Array: ";
     printArray(merged, size1 + size2);
-    
+     cout << "Hi saran: ";
     return 0;
 }
+
