@@ -8,7 +8,7 @@ void mergeArrays(int arr1[], int size1, int arr2[], int size2, int merged[]) {
         merged[i] = arr1[i];
     }
     
-    
+    //hello saran
     for (int i = 0; i < size2; i++) {
         merged[size1 + i] = arr2[i];
     }
