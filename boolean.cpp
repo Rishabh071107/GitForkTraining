@@ -22,7 +22,7 @@ void printArray(int arr[], int size) {
     }
     cout << endl;
 }
-//hi 
+
 int main() {
     
     int arr1[] = {1, 2, 3, 4, 5};
