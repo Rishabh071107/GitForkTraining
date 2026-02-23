@@ -22,7 +22,7 @@ void printArray(int arr[], int size) {
     }
     cout << endl;
 }
-//hi 
+//hi
 int main() {
     
     int arr1[] = {1, 2, 3, 4, 5};
@@ -47,6 +47,7 @@ int main() {
     
     cout << "Merged Array: ";
     printArray(merged, size1 + size2);
-    
+     cout << "Hi saran: ";
     return 0;
 }
+
