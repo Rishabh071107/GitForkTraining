@@ -14,7 +14,7 @@ void mergeArrays(int arr1[], int size1, int arr2[], int size2, int merged[]) {
     }
 }
 
-
+//hello 
 void printArray(int arr[], int size) {
     cout << "Array: ";
     for (int i = 0; i < size; i++) {
@@ -38,7 +38,7 @@ int main() {
 
     mergeArrays(arr1, size1, arr2, size2, merged);
     
-            
+
     cout << "First Array: ";
     printArray(arr1, size1);
     
