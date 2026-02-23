@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-
+//hello sachin
 void mergeArrays(int arr1[], int size1, int arr2[], int size2, int merged[]) {
    
     for (int i = 0; i < size1; i++) {
